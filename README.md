@@ -8,6 +8,7 @@ Sample demo README.md file for my **Github** repo.
 ### Requirments:
 1. The system shall attempt rng on cards
 2. The system shall ...
+3. The system shall be a little silly 
 
 * shovels
 * rakes
